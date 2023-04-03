@@ -1,0 +1,54 @@
+.header__container {
+    background: #000000;
+}
+
+.header__event-title {
+    color: #EA8824;
+}
+
+.header__age-rating {
+    border: 2px solid #909090;
+    color: #909090;
+}
+
+.switcher__container {
+    border: 1.5px solid #909090;
+    color: #909090;
+}
+
+.header__event-description {
+    color: #ffffff;
+}
+
+.header__event-description-cover img {
+    border-radius: 10px;
+}
+
+.plan-preview__body {
+    background: #000000;
+}
+
+.venue-plan__header {
+    background: #000000;
+}
+
+.fil1.str0 {
+    fill: #000000;
+}
+
+.fil0 {
+    fill: #909090;
+}
+
+.plan-preview__resume {
+    background: #000000;
+    padding: 10px 35px 10px;
+}
+
+.btn_green {
+    background: #EA8824;
+}
+
+.e-popup__footer {
+    background: linear-gradient(180deg,#323232 0,#000000 17%,#090909);
+}
